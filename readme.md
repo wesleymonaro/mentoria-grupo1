@@ -4,10 +4,12 @@ Projeto final desenvolvido com a galera do grupo 1 de mentoria do [CaquiCoders](
 
 ## App de produtos
 
-![Home](https://github.com/wesleymonaro/mentoria-grupo1/blob/master/prints/1.png?raw=true)
-![Detalhe](https://github.com/wesleymonaro/mentoria-grupo1/blob/master/prints/1.png?raw=true)
+<div>
+<img src="https://github.com/wesleymonaro/mentoria-grupo1/blob/master/prints/1.png" width="300">
+<img src="https://github.com/wesleymonaro/mentoria-grupo1/blob/master/prints/2.png" width="300">
+ </div>
 
-Projeto desenvolvido com NodeJS na API, e React Native para o APP. Para rodar a API, basta instalar as dependências com yarn ou npm, e execute o comando start do package.json. Para rodar o app, faça o mesmo processo de instalação de dependências realizado na API, e execute o comando android do package.json.
+Projeto desenvolvido com NodeJS na API, e React Native para o APP. Para rodar a API, basta instalar as dependências com yarn ou npm, e execute o comando start do package.json. Para rodar o app, faça o mesmo processo de instalação de dependências realizado na API, e execute o comando android do package.json. Altere no arquivo api.ts para o endereço da sua API local.
 
 #### Banco de dados
 
